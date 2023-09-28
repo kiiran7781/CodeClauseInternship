@@ -2,6 +2,7 @@
 Allocated Project-
 
    1.Loan Prediction
+   
    2.Speech Emotion Recognition
 
 
